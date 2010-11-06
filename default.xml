@@ -201,5 +201,6 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="github" />
   <project path="system/vold" name="drakaz/gaosp_system_vold" remote="github" revision="gaosp-froyo" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
+  <project path="PSFreedom" name="drakaz/PSFreedom_I7500" remote="github" />
 
 </manifest>
