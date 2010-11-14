@@ -16,3 +16,12 @@ Then to sync up:
     repo sync
 
 Please see the [GAOSP Wiki](http://code.google.com/p/gaosp/wiki/Building) for building instructions.
+
+
+GAOSP dev Team :
+
+AndroBot
+Bukington
+Drakaz
+Nopy
+Obihoernchen
