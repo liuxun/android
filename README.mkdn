@@ -1,0 +1,27 @@
+GAOSP (CyanogenMod for Samsung Galaxy)
+===========
+
+Getting Started
+---------------
+
+To get started with Android/GAOSP/CyanogenMod, you'll need to get
+familiar with [Git and Repo](http://source.android.com/download/using-repo).
+
+To initialize your local repository using the GAOSP trees, use a command like this:
+
+    repo init -u git://github.com/drakaz/android.git -b gaosp-froyo
+
+Then to sync up:
+
+    repo sync
+
+Please see the [GAOSP Wiki](http://code.google.com/p/gaosp/wiki/Building) for building instructions.
+
+
+GAOSP dev Team :
+
+AndroBot
+Bukington
+Drakaz
+Nopy
+Obihoernchen
