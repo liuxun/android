@@ -133,7 +133,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
 
-  <project path="gaosp-kernel" name="drakaz/gaosp_kernel" remote="github" revision="gaosp-2.6.29"/>
+  <project path="gaosp-kernel" name="bukington/gaosp_kernel" remote="github" revision="gaosp-2.6.29"/>
 
   <project path="ndk" name="platform/ndk" revision="master" />
 
