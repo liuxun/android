@@ -198,7 +198,7 @@
   <project path="system/bluetooth" name="drakaz/gaosp_system_bluetooth" remote="github" revision="gaosp-froyo" />
   <project path="system/core" name="drakaz/gaosp_system_core" remote="github" revision="gaosp-froyo" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" />
-  <project path="system/netd" name="drakaz/gaosp_system_netd" remote="github" />
+  <project path="system/netd" name="drakaz/gaosp_system_netd" remote="gaosp-froyo" />
   <project path="system/vold" name="drakaz/gaosp_system_vold" remote="github" revision="gaosp-froyo" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
   <project path="PSFreedom" name="drakaz/PSFreedom_I7500" remote="github" revision="master" />
